@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tehtävä_19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HissiSovellus" Height="400" Width="400">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Olet kerroksessa:"/>
+            <TextBlock x:Name="tämäKerrosTextBlock" FontWeight="Bold" FontSize="20" Margin="0 10"/>
+            <TextBlock Text="Valitse kerros (1-6)" IsEnabled="False"/>
+            <TextBox x:Name="valitsemasiKerrosTextBox" Width="50" Margin="0 10"/>
+            <Button Content="Liiku" Click="MoveButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
