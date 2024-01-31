@@ -1,0 +1,63 @@
+﻿<Window x:Class="Harjoitus_23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_23"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="510" Width="900">
+    <Grid>
+        <Grid Margin="143,102,194,92" Background="#AA9">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Margin="324,44,16,23" Background="#AA9" Width="197" Height="233" Grid.RowSpan="2">
+                <TextBox x:Name="numPadInput" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" IsReadOnly="True" FlowDirection="RightToLeft" Margin="0,10,0,0" Height="23"/>
+                <Button Content="0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="132" Margin="0,179,54,0" Click="NumPadBtn_Click"/>
+                <Button Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="10,134,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="57,134,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="102,134,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="10,89,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="57,89,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="102,89,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="10,44,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="57,44,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="102,44,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="Enter" HorizontalAlignment="Left" VerticalAlignment="Top" Height="130" Width="40" Margin="147,89,0,0" Click="NumPadBtn_Click"/>
+                <Button Content="&lt;" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="40" Margin="147,44,0,0" Click="NumPadBtn_Click"/>
+            </Grid>
+
+            <TextBlock HorizontalAlignment="Left" Margin="10,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="86" Width="271" FontSize="50" Grid.RowSpan="2">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="white"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground><Run Language="en-fi" Text="Lämpötila:"/></TextBlock>
+
+            <TextBlock Name="temperatureField" HorizontalAlignment="Left" Margin="245,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="72" Width="144" FontSize="50" Grid.RowSpan="2">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="white"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground><Run Language="en-fi" Text="120"/></TextBlock>
+
+            <TextBlock HorizontalAlignment="Left" Margin="10,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="69" Width="187" FontSize="50" Grid.RowSpan="2">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="white"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground><Run Language="en-fi" Text="Kosteus:"/></TextBlock>
+
+            <TextBlock Name="humidityField" HorizontalAlignment="Left" Margin="204,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="61" Width="96" FontSize="50" Grid.RowSpan="2">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="white" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground><Run Text="1"/><Run Language="en-fi" Text="00"/><LineBreak/><Run Language="en-fi"/></TextBlock>
+            <TextBlock Name="activityMessage" Text="" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Height="24" Width="290" Margin="10,274,0,0" Grid.RowSpan="2"/>
+            <RadioButton Content="Lämpötila" HorizontalAlignment="Left" Margin="318,17,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" GroupName="kiuasGroup" IsChecked="True" Grid.RowSpan="2"/>
+            <RadioButton Content="Kosteus" HorizontalAlignment="Left" Margin="416,17,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" GroupName="kiuasGroup" Grid.RowSpan="2"/>
+        </Grid>
+    </Grid>
+</Window>
