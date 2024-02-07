@@ -1,0 +1,21 @@
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\bin\Debug\net6.0-windows\Harjoitus 21.exe
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\bin\Debug\net6.0-windows\Harjoitus 21.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\bin\Debug\net6.0-windows\Harjoitus 21.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\bin\Debug\net6.0-windows\Harjoitus 21.dll
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\bin\Debug\net6.0-windows\Harjoitus 21.pdb
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21_MarkupCompile.cache
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21_MarkupCompile.lref
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.g.resources
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.dll
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\refint\Harjoitus 21.dll
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.pdb
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\Harjoitus 21.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\fullbox\olio3\OlioJaWPFSovellukset1\Harjoitus 21\obj\Debug\net6.0-windows\ref\Harjoitus 21.dll
